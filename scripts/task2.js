@@ -1,0 +1,1 @@
+alert('Mickey Mouse')
